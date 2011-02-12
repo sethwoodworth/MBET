@@ -1,0 +1,10 @@
+Mobile Based Emergency Training
+-------------------------------
+
+Summary
+=======
+When the disaster strikes the first and largest wave of humanitarian responders are those already working on developmental projects for the response organization in the country. They are often required to make use of ICT technologies and systems that are commonly used in emergency environments but not in developmental projects. Successful coordination and information sharing in emergencies is therefore often hampered by the lack of ICT know-how of the field staff.
+
+### User Story ###
+_Problem_: John is at home when an earthquake strikes a remote country. He is being sent there as part of a rescue team. Before he leaves for the airport, he runs the MBET app on his phone. It updates and downloads the videos his non-profit thinks he will need.  He can then watch the videos on the plane, from his phone.
+
